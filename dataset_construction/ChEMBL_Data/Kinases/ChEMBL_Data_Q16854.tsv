@@ -1,0 +1,3 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+	2024257	CHEMBL886787	Inhibition of human fibroblast mitochondrial deoxyguanosine kinase	B	CCCCCCCCCC(=O)O[C@H]1[C@H](O)[C@@H](CO)O[C@H]1n1cc(/C=C/Br)c(=O)[nH]c1=O	Outside typical range	CHEMBL400618	>	IC50	nM	1000000.0	CHEMBL5997	Homo sapiens	IC50	uM	1000.0
+	2024257	CHEMBL886787	Inhibition of human fibroblast mitochondrial deoxyguanosine kinase	B	CCCCCCCCCC(=O)O[C@H]1[C@H](O)[C@@H](CO)O[C@H]1n1cc(/C=C/Br)c(=O)[nH]c1=O	Outside typical range	CHEMBL400618	>	IC50	nM	1000000.0	CHEMBL5997	Homo sapiens	IC50	uM	1000.0

@@ -1,0 +1,6 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+	18167862	CHEMBL4036829	Binding affinity to SK2 (unknown origin)	B	Fc1ccc(Nc2n[nH]c3cc(OC(F)(F)F)cnc23)cc1F		CHEMBL4062193	>	EC50	nM	10000.0	CHEMBL4105790	Homo sapiens	EC50	uM	10.0
+	18167862	CHEMBL4036829	Binding affinity to SK2 (unknown origin)	B	Fc1ccc(Nc2n[nH]c3cc(OC(F)(F)F)cnc23)cc1F		CHEMBL4062193	>	EC50	nM	10000.0	CHEMBL4105790	Homo sapiens	EC50	uM	10.0
+	18167863	CHEMBL4036829	Binding affinity to SK2 (unknown origin)	B	N#Cc1ccc(-c2n[nH]c3cc(OC(F)(F)F)ccc23)cc1		CHEMBL4101680	>	EC50	nM	10000.0	CHEMBL4105790	Homo sapiens	EC50	uM	10.0
+	18167883	CHEMBL4036829	Binding affinity to SK2 (unknown origin)	B	FC(F)(F)c1ccc2c(Nc3ccc(Cl)nc3)n[nH]c2c1		CHEMBL4093377	>	EC50	nM	10000.0	CHEMBL4105790	Homo sapiens	EC50	uM	10.0
+Active	18275756	CHEMBL4118716	Binding affinity to PAPSS2 in human NCI-H23 cells at 1 uM by mass spectrometry based pull down assay	B	C=CC(=O)Nc1ccccc1Nc1nc(Nc2ccc(N3CCN(CCOCCOCCOCCNC(=O)CCCC[C@@H]4SC[C@@H]5NC(=O)N[C@H]45)CC3)cc2)ncc1Cl		CHEMBL4129274		Activity			CHEMBL4105790	Homo sapiens	Activity		

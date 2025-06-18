@@ -1,0 +1,3 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+Active	13294872	CHEMBL2379173	Inhibition of ROR2 phosphorylation in growth factor-stimulated HUVEC at 3 uM after 24 hrs	B	O=C(O)C(O)C(O)C(=O)O.O=c1[nH]c(CN2CCCCC2)nc2cc(-c3cn(Cc4ccccc4)c4ccccc34)sc12		CHEMBL2377454		Inhibition	%		CHEMBL2375201	Homo sapiens	INH		
+Active	13294872	CHEMBL2379173	Inhibition of ROR2 phosphorylation in growth factor-stimulated HUVEC at 3 uM after 24 hrs	B	O=C(O)C(O)C(O)C(=O)O.O=c1[nH]c(CN2CCCCC2)nc2cc(-c3cn(Cc4ccccc4)c4ccccc34)sc12		CHEMBL2377454		Inhibition	%		CHEMBL2375201	Homo sapiens	INH		

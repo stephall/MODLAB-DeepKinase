@@ -1,0 +1,4 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+	3213972	CHEMBL1116720	Inhibition of MOS at 5 uM	B	O=C(Nc1ccccc1Cl)c1cnc2ccc(C3CCNCC3)cn12.O=C(O)C(=O)O		CHEMBL1077739	=	Inhibition	%	-8.0	CHEMBL1075184	Homo sapiens	INH	%	-8.0
+	3213972	CHEMBL1116720	Inhibition of MOS at 5 uM	B	O=C(Nc1ccccc1Cl)c1cnc2ccc(C3CCNCC3)cn12.O=C(O)C(=O)O		CHEMBL1077739	=	Inhibition	%	-8.0	CHEMBL1075184	Homo sapiens	INH	%	-8.0
+	10839408	CHEMBL2015070	Inhibition of MOS at 10 uM	B	COc1ccc2c3ccnc(C(F)(F)F)c3n(CCCCN)c2c1		CHEMBL2012574	=	Inhibition	%	16.0	CHEMBL1075184	Homo sapiens	INH	%	16.0

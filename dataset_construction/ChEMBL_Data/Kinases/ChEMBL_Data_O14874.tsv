@@ -1,0 +1,5 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+	23222839	CHEMBL4824991	Inhibition of human recombinant BCKDK incubated for 60 mins by ADP-Glo kinase assay	B	Cc1cnc2[nH]c3c(C4CC4)cccc3c2n1	Outside typical range	CHEMBL4855768	>	IC50	nM	300000.0	CHEMBL4879410	Homo sapiens	IC50	uM	300.0
+	23222839	CHEMBL4824991	Inhibition of human recombinant BCKDK incubated for 60 mins by ADP-Glo kinase assay	B	Cc1cnc2[nH]c3c(C4CC4)cccc3c2n1	Outside typical range	CHEMBL4855768	>	IC50	nM	300000.0	CHEMBL4879410	Homo sapiens	IC50	uM	300.0
+	23222841	CHEMBL4824993	Inhibition of human recombinant BCKDK at 500 uM incubated for 60 mins by ADP-Glo kinase assay	B	CNc1cccc2c1NC(=O)C2(C)C		CHEMBL4848983	=	Inhibition	%	14.0	CHEMBL4879410	Homo sapiens	INH	%	14.0
+	23222844	CHEMBL4824996	Inhibition of human recombinant BCKDK at IC50 incubated for 60 mins by ADP-Glo kinase assay relative to control	B	Cc1cnc2[nH]c3c(C4CC4)cccc3c2n1		CHEMBL4855768	=	Inhibition	%	3.0	CHEMBL4879410	Homo sapiens	INH	%	3.0

@@ -1,0 +1,7 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+	6167009	CHEMBL1768895	Inhibition of CERK	B	CNc1cncc(-c2c[nH]c(=O)c(NC(=O)c3ccc(N4CCC[C@H]4CN4CCCC4)cc3)c2)n1		CHEMBL1765781	>	Ki	nM	1000.0	CHEMBL1764936	Homo sapiens	Ki	uM	1.0
+	6167009	CHEMBL1768895	Inhibition of CERK	B	CNc1cncc(-c2c[nH]c(=O)c(NC(=O)c3ccc(N4CCC[C@H]4CN4CCCC4)cc3)c2)n1		CHEMBL1765781	>	Ki	nM	1000.0	CHEMBL1764936	Homo sapiens	Ki	uM	1.0
+	18665553	CHEMBL4233299	Inhibition of CerK (unknown origin)	B	O=C(Cc1cccc(OCCCN2CCNCC2)c1)Nc1nc(-c2ccncc2)cs1		CHEMBL4245507	>	IC50	nM	10000.0	CHEMBL1764936	Homo sapiens	IC50	nM	10000.0
+	18674592	CHEMBL4235331	Inhibition of CerK (unknown origin)	B	CS(=O)(=O)Nc1cccc(CC(=O)Nc2nc(-c3c[nH]c4ncccc34)cs2)c1		CHEMBL4249925	>	Ki	nM	10000.0	CHEMBL1764936	Homo sapiens	Ki	nM	10000.0
+	18674593	CHEMBL4235331	Inhibition of CerK (unknown origin)	B	O=C(Cc1cccc(OCCCC2CCNCC2)c1)Nc1nc(-c2c[nH]c3ncccc23)cs1		CHEMBL4245242	>	Ki	nM	10000.0	CHEMBL1764936	Homo sapiens	Ki	nM	10000.0
+	18674594	CHEMBL4235331	Inhibition of CerK (unknown origin)	B	CN1CCN(CCCOc2cccc(CC(=O)Nc3nc(-c4c[nH]c5ncccc45)cs3)c2)CC1		CHEMBL4248525	>	Ki	nM	10000.0	CHEMBL1764936	Homo sapiens	Ki	nM	10000.0

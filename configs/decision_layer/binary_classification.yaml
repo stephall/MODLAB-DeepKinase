@@ -1,0 +1,11 @@
+# /configs/decision_layer/binary_classification.yaml
+
+# The decision layer defined below (and distributed to the corresponding configurations)
+# will be identified with the following tag
+tag: 'binary_classification'
+
+model:
+  decision_model:
+    decision_layer_configs:
+      name: 'BinaryClassificationDecisionLayer' # Specify which decision layer type (class name) should be used
+      required_relation_representation_types: ['binary_labels'] # Specify which relation representations this decision layer requires

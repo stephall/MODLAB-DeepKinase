@@ -1,0 +1,32 @@
+# Ignore some hidden directories
+.DS_Store
+.cache
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+.matplotlib_configs
+.bash_history
+
+# Ignore all __pycache__/ (sub)directories
+**/__pycache__/
+
+# Ignore the folders related to the trained models as these a too large,
+# while including their corresponding tar files (.tar.gz files).  
+trained_models/*
+!trained_models/optimal_model_original
+trained_models/optimal_model_original/*
+!trained_models/optimal_model_original/*.tar.gz
+!trained_models/optimal_model_resampled
+trained_models/optimal_model_resampled/*
+!trained_models/optimal_model_resampled/*.tar.gz
+!trained_models/optimal_model_scrambled
+trained_models/optimal_model_scrambled/*
+!trained_models/optimal_model_scrambled/*.tar.gz
+!trained_models/baseline_model
+trained_models/baseline_model/*
+!trained_models/baseline_model/*.tar.gz
+
+# Ignore files too large to upload to GitHub (limit is 100 MB)
+raw_data/Activities_Kinases.tsv            
+raw_data/smiles_to_graph_map.pickle

@@ -1,0 +1,84 @@
+#/configs/data_handling/data_handling_default.yaml
+
+# Define the batch size for the dataloaders.
+batch_size: 128
+
+# Define the number of workers used by the data loaders.
+# Remark: If num_workers of a torch dataloader is 0, the main process loads the data.
+#         If 0<num_workers of a torch dataloader, sub processes (in addition to the main process) are launched to load the data.
+num_workers: 0
+
+# Define the random seed that will be used by the train-dataloader to provide batches (whose order should be randomized for each epoch)
+random_seed_train_dataloader: 43
+
+# Define the data preprocessing parameters
+data_preprocessing:
+  # Use the relation representation params defined in the 'global' relation representation configuration file
+  relation_representation_params: ${relation_representation.data_handling.data_preprocessing.relation_representation_params}
+
+  # Define the number of cross-validation folds
+  K: 5
+
+  # Define which cross-validation fold should be used (zero-based index in [0, K-1])
+  # Use null (parsed as None) for no validation fold (i.e. the train-validation points are entirely assigned to the train set)
+  k: null
+
+  # TODO: Descriptions of the following configurations
+  # Define the relative base path to the directory containing raw data files that will be used during preprocessing
+  raw_data_base_dir: './raw_data/'
+
+  # Define the names of various files in this (raw_data) directory
+  file_names:
+    measurements_file:                 'Activities_Kinases.tsv'
+    smiles_to_graph_map_file:          'smiles_to_graph_map.pickle'
+    molecules_from_qmugs_summary_file: 'molecules_from_qmugs_summary.tsv'
+    nswc_smiles_kinases_chembl_file:   'nswc_smiles_kinases_chembl.tsv'
+    nswc_smiles_holdout_file:          'nswc_smiles_holdout.tsv'
+
+  # Should only kinases listed on KinHub be included in the data?
+  only_use_kinases_listed_on_KinHub: False
+
+  # Define the pTypes to be included
+  include_pTypes: ['pki']
+
+  # Define boundaries for the pX values
+  # Remark: If any of the boundaies is null (parsed as None), the boundary is set to -inf (lower) or inf (upper).
+  pX_bounds: [null, null]
+
+  # Define the boolean flag specifying if entries labeled as 'ineffective' (in the activity table column 'effect_comment') should be removed or not. By design, this should remove all entries with pX equal to NaN/None.
+  remove_ineffective_labeled_entries: True
+
+  # Define the molecular weight interval boundaries (in units of Dalton) inside 
+  # which molecules will be kept (all other molecules will be filtered out)
+  molecular_weight_bounds: [150, 750]
+
+  # Define a threshold for the minimal number of molecules required for each protein
+  num_molecules_threshold: 50
+
+  # Define the parameters for resampling/subsampling (during dataset constructing) of the molecules in the QMugs summary whose activity has not been measured 
+  # for any kinase (these molecules will internally be called non-measured molecules)
+  # Remark: Use null (parsed as None) for 'non_measured_molecules_subsampling_params' if the non-measured molecules should not be subsampled
+  non_measured_molecules_subsampling_params: 
+    ratio_non_measured_to_measured: 1
+    segment_index: 0
+
+  # Set the configurations for the train data scrambling
+  train_data_scrambling:
+    strategy: 'swap_connections' #'sample_non_measured_as_positives'
+    which_connections: 'on_chembl' # Options: ['on_chembl', 'all'] => Which connections (i.e. protein-molecule pairs) are allowed to be scrambled, i.e. only the ones listed on ChEMBL or all. Remark: In case strategy='sample_non_measured_as_positives', which_connections must be 'all'.
+    p_scrambling: 0.0 # Scrambling probability (if only_positives=True, this is the scrambling probability of the positive connections, while the negative connections have probability 0)
+
+  # Define various random seeds
+  # Remark: Randomness depends on the previously selected seeds (each seed depends on the seeds listed above it here)
+  random_seeds:
+    single_target_measured_molecules_to_data_folds_assignment:   42
+    multiple_target_measured_molecules_to_data_folds_assignment: 42
+    non_measured_molecules_to_data_folds_assignment:             42
+    non_measured_molecules_to_proteins_assignment:               42
+    train_data_scrambling:                                       42
+
+  # Define the protein featurization (protein model input representation) strategy
+  protein_representation_type: 'protein_index'
+
+  # Define the directory in which the figures should be saved in
+  figures_dir_path: './temp/figures'

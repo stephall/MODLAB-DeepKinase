@@ -1,0 +1,78 @@
+#/configs/model/mtgnn_model.yaml
+
+# Define the name of the model using the tag (specified in the 'global' relation representation specifications config file) as suffix
+name: 'mtgnn_model_${model.molecule_model.num_message_passes}MPS_${relation_representation.tag}_${decision_layer.tag}'
+
+# Define the random seed for model initialization
+model_init_seed: 3
+
+# Should CUDA operations be enforced to be deterministic?
+# Remark: As torch.cuda is random seeded with (torch.manual_seed) and also the torch.cuda
+#         random states are handled using 'random_handling.RandomHandler' objects, CUDA
+#         does not need to be deterministic for reproducible results.
+make_cuda_operations_deterministic: False
+
+# Define global model settings
+global_params:
+  # Set the dimension of the learned latent representations (outputs of the molecule and protein parts)
+  latent_representations_dim: 32
+  # Set a global activation function
+  activation_fn: 'SELU'
+  # Set a global dropout probability
+  dropout: 0.2
+
+# Define parameters of molecule model
+molecule_model:
+  vertex_feature_map: null # Parsed as None -> Set by data_preprocessor during runtime
+  edge_feature_map: null # Parsed as None -> Set by data_preprocessor during runtime
+  name: 'MoleculeGNNModel'
+  embedding_dim: 64
+  fcnn_before_mpnn:
+    hidden_params:
+      num_hidden: 1 # Determine the hidden dimensions interpolatively from the input to the output dimension of the FCNN
+    activation_fn: ${model.global_params.activation_fn}
+    dropout: ${model.global_params.dropout}
+  mpnn:
+    dim: 64 # Vertex feature dimension kept constant over the message passing steps (input_dim=output_dim=mpnn.dim for each message passing step)
+    num_hidden: 1
+    activation_fn: ${model.global_params.activation_fn}
+    dropout: ${model.global_params.dropout}
+    layer_norm_mode: null # Options: (1) null (parsed as None) or 'None' -> do not apply any normalization, (2) 'node' -> normalize over vertex features of each vertex (3) 'graph' -> normalize over vertex features of each graph
+    params:
+      eps: 0.0
+      train_eps: True
+  num_message_passes: 3
+  fcnn_after_mpnn:
+    hidden_params:
+      #num_hidden: 1
+      hidden_dims: [64]
+    activation_fn: ${model.global_params.activation_fn}
+    dropout: ${model.global_params.dropout}
+  output_dim: ${model.global_params.latent_representations_dim}
+  vertex_aggregation: 'sum'
+
+# Define parameters of protein model
+protein_model:
+  protein_representation_params: null # Parsed as None -> Set by data_preprocessor during runtime
+  name: 'ProteinIndexFCNNModel'
+  embedding_dim: 128 #64
+  activation_fn: ${model.global_params.activation_fn}
+  dropout: ${model.global_params.dropout}
+  hidden_params:
+    hidden_dims: [64]
+  output_dim: ${model.global_params.latent_representations_dim}
+
+# Define parameters of combination model
+combination_model:
+  name: 'ConcatenationModel'
+
+# Define parameters of decision model
+decision_model:
+  relation_repr_params: null # Parsed as None -> Set by data_preprocessor during runtime
+  name: 'DecisionFCNNModel'
+  activation_fn: ${model.global_params.activation_fn}
+  dropout: ${model.global_params.dropout}
+  hidden_params:
+    hidden_dims: [16, 4]
+  # Use the  'global' relation representation specifications config file specified for the decision layer parameters
+  decision_layer_configs: ${decision_layer.model.decision_model.decision_layer_configs}

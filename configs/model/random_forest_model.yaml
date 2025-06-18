@@ -1,0 +1,45 @@
+#/configs/model/random_forest_model.yaml
+
+# Define the name of the model using the tag (specified in the 'global' relation representation specifications config file) as suffix
+# Remark: This must not be changed as it is expected by the model handler factory to define a random forest model handling object.
+name: 'random_forest'
+
+# Define the random seed for model initialization
+model_init_seed: 0
+
+# Define which molecular (i.e., Morgan) fingerprint (fp) should be used
+# Remark: Molecular fingerprints are specified by their label in the form 'MFP<radius>@<#bits>'
+mol_fp_label: 'MFP3@4096' 
+
+# Create a list of hyperparameters to be scanned (in hyperparameter tuning)
+rf_hyper_params_scan_values:
+  criterion_values:         ['entropy']
+  n_estimators_values:      [10, 25, 50, 100, 200]
+  max_depth_values:         [null] # Remark: null is parsed as None
+  max_features_values:      ['sqrt', 0.1, 0.25, 0.5] # If float, then fraction of total number of datatapoints
+  max_samples_values:       [1.0]
+  min_samples_split_values: [2]
+  min_samples_leaf_values:  [1]
+
+# Define the train configurations specific to the random forest model
+rf_cv_params:
+  split_seed: 42
+  num_kfolds: 5
+
+# Define the random seed for initialization of the random forest model when using 
+# optimal hyper parameters (found in cross-validation)
+train_seed_optimal_model: 43
+
+# Define the relative directory path (within 'raw_data' directory) in which all
+# fingerprint (fp) mappings are located in
+fp_mappings_rel_dir_path: 'fp_mappings'
+
+# Where should the pandas.DataFrame holding the test set and (single-task random forest) 
+# predictions for each of its datapoints be saved in?
+pred_test_set_df_save_file_path: './random_forest_predictions_test_set_df.tsv'
+
+# Where should the optimal (w.r.t. hyper parameters) and trained model be saved in?
+protein_models_save_dir: './protein_specific_models'
+
+# What compression level should be used for model saving via 'joblib.dump()'?
+model_saving_compression_level: 0

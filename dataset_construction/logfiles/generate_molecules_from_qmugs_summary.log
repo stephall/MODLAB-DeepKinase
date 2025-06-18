@@ -1,0 +1,9 @@
+[2023-07-28 14:13:52] [INFO]: Loading QMugs summary file.
+[2023-07-28 14:14:30] [INFO]: Loading done. Number of entries in QMugs summary: 1992984
+[2023-07-28 14:14:31] [INFO]: Number of unique SMILES: 659187
+
+[2023-07-28 14:14:31] [INFO]: Washing all smiles strings (and making them canonical and non-stereochemical): 
+[2023-07-28 15:31:24] [INFO]: Number of unique non-stereochemical washed canonical SMILES strings: 630508
+[2023-07-28 15:31:24] [INFO]: Determine the molecular weight of all these unique molecules
+[2023-07-28 15:33:11] [INFO]: Weight determination done
+[2023-07-28 15:33:17] [INFO]: Saved the table containing the non-stereochemical washed canonical SMILES (nswcs) strings and molecular weight of all QMugs summary molecules in: ./tables/output/molecules/molecules_from_qmugs_summary.tsv

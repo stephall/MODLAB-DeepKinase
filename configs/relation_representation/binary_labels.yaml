@@ -1,0 +1,10 @@
+# /configs/relation_representation/binary_labels.yaml
+
+# The representation type defined below (and distributed to the corresponding configurations)
+# will be identified with the following tag
+tag: 'binary_labels'
+
+data_handling:
+  data_preprocessing:
+    relation_representation_params:
+      type: 'binary_labels'

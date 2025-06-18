@@ -1,0 +1,10 @@
+# Ignore everything in this directory
+*
+
+# Except this file itself
+!.gitignore
+
+# And the proteins folder
+!activities
+!molecules
+!proteins

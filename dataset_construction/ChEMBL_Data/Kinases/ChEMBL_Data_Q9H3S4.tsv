@@ -1,0 +1,12 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+	2099035	CHEMBL947913	Ratio of kcat to Km for thiamine pyrophospholipase	B	Cc1ncc(C[n+]2csc(CCO)c2C)c(N)n1		CHEMBL1547	=	Kcat/Km	10^-5/nM/s	1.2	CHEMBL6155	Homo sapiens	Kcat/Km	10^-5/nM/s	1.2
+	2099035	CHEMBL947913	Ratio of kcat to Km for thiamine pyrophospholipase	B	Cc1ncc(C[n+]2csc(CCO)c2C)c(N)n1		CHEMBL1547	=	Kcat/Km	10^-5/nM/s	1.2	CHEMBL6155	Homo sapiens	Kcat/Km	10^-5/nM/s	1.2
+	2099036	CHEMBL947913	Ratio of kcat to Km for thiamine pyrophospholipase	B	Cc1ncc(Cn2c(C)c(CCO)sc2=O)c(N)n1		CHEMBL256803	=	Kcat/Km	10^-5/nM/s	1.0	CHEMBL6155	Homo sapiens	Kcat/Km	10^-5/nM/s	1.0
+	2099053	CHEMBL947913	Ratio of kcat to Km for thiamine pyrophospholipase	B	Cc1c(Cc2cncnc2N)csc1CCO		CHEMBL257285	=	Kcat/Km	10^-5/nM/s	1.2	CHEMBL6155	Homo sapiens	Kcat/Km	10^-5/nM/s	1.2
+	2099054	CHEMBL947913	Ratio of kcat to Km for thiamine pyrophospholipase	B	CC(=O)Nc1ncc(Cc2csc(CCO)c2C)c(N)n1		CHEMBL255138	=	Kcat/Km	10^-6/nM/s	1.1	CHEMBL6155	Homo sapiens	Kcat/Km	10^-6/nM/s	1.1
+	2099055	CHEMBL947913	Ratio of kcat to Km for thiamine pyrophospholipase	B	Cc1c(Cc2cnc(-c3ccccc3)nc2N)csc1CCO		CHEMBL255548	=	Kcat/Km	10^-6/nM/s	1.0	CHEMBL6155	Homo sapiens	Kcat/Km	10^-6/nM/s	1.0
+	2099057	CHEMBL947913	Ratio of kcat to Km for thiamine pyrophospholipase	B	Cc1c(Cc2cnc(C3CC3)nc2N)csc1CCO		CHEMBL256177	=	Kcat/Km	10^-5/nM/s	2.7	CHEMBL6155	Homo sapiens	Kcat/Km	10^-5/nM/s	2.7
+	2099058	CHEMBL947913	Ratio of kcat to Km for thiamine pyrophospholipase	B	Cc1c(Cc2cnc(C(C)C)nc2N)csc1CCO		CHEMBL255550	=	Kcat/Km	10^-5/nM/s	2.4	CHEMBL6155	Homo sapiens	Kcat/Km	10^-5/nM/s	2.4
+	2099059	CHEMBL947913	Ratio of kcat to Km for thiamine pyrophospholipase	B	Cc1ncc(Cc2csc(CCO)c2C)c(N)n1		CHEMBL401772	=	Kcat/Km	10^-5/nM/s	3.4	CHEMBL6155	Homo sapiens	Kcat/Km	10^-5/nM/s	3.4
+	2099068	CHEMBL947913	Ratio of kcat to Km for thiamine pyrophospholipase	B	Cc1ncc(Cc2c(C)c(CCO)nn2C)c(N)n1		CHEMBL257254	=	Kcat/Km	10^-5/nM/s	1.9	CHEMBL6155	Homo sapiens	Kcat/Km	10^-5/nM/s	1.9
+	2099069	CHEMBL947913	Ratio of kcat to Km for thiamine pyrophospholipase	B	Cc1c(Cc2cnc(C(F)(F)F)nc2N)csc1CCO		CHEMBL401572	=	Kcat/Km	10^-4/nM/s	8.5	CHEMBL6155	Homo sapiens	Kcat/Km	10^-4/nM/s	8.5

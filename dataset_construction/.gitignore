@@ -1,0 +1,12 @@
+# Ignore some hidden directories
+.DS_Store
+.chembl_ws_client__0.10.8
+.cache/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+
+# Ignore files too large to upload to GitHub (limit is 100 MB)
+/tables/input/UniProt_Human_list.tsv
+/tables/input/qmugs_summary.csv

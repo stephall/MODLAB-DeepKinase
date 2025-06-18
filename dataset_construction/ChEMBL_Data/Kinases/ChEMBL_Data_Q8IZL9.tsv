@@ -1,0 +1,5 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+	18153125	CHEMBL4034282	Inhibition of CCRK Lysine 1 labelling site (unknown origin) at 10 uM	B	c1cc(-c2c[nH]c3cnccc23)ccn1		CHEMBL4084955	=	Inhibition	%	6.4	CHEMBL3559690	Homo sapiens	INH	%	6.4
+	18153125	CHEMBL4034282	Inhibition of CCRK Lysine 1 labelling site (unknown origin) at 10 uM	B	c1cc(-c2c[nH]c3cnccc23)ccn1		CHEMBL4084955	=	Inhibition	%	6.4	CHEMBL3559690	Homo sapiens	INH	%	6.4
+	18153336	CHEMBL4034283	Inhibition of CCRK Lysine 2 labelling site (unknown origin) at 10 uM	B	c1cc(-c2c[nH]c3cnccc23)ccn1	Outside typical range	CHEMBL4084955	=	Inhibition	%	-16.1	CHEMBL3559690	Homo sapiens	INH	%	-16.1
+	19133289	CHEMBL4375310	Binding affinity to wild-type human full-length CDK20 (M1 to G346 residues) expressed in mammalian expression system measured after 1 hr by kinomescan method	B	O=C(Nc1ccc2cc(C(=O)Nc3nccs3)ccc2c1)c1ccc(Cl)c(Cl)c1		CHEMBL4445812	=	Kd	nM	8020.0	CHEMBL3559690	Homo sapiens	Kd	uM	8.02

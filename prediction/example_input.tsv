@@ -1,0 +1,5 @@
+O=C(O)[C@@H](N)C
+O=C(O)[CH](N)C
+BrC(C=Cc1ccccc1)=NNc1nc(N2CCOCC2)nc(N2CCOCC2)n1
+BrC(C=Cc2ccccc1)=NNc1nc(N2CCOCC2)nc(N2CCOCC2)n
+CNC(=O)c1c([Se][Se]c2c(C(=O)NC)c3ccccc3n2C)n(C)c2ccccc12

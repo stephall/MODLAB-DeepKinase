@@ -1,0 +1,40 @@
+#/configs/training/training_default.yaml
+
+# Number of epochs to train for
+num_epochs: 500
+
+# Define a random seed for training
+# Remark: This is required in case there is some sampling (e.g. when using dropout layers)
+training_random_seed: 84
+
+# Define the random seed used for the evaluation (i.e. of the metric or as default for predictions)
+# Remark: This will fix randomness during model evaluation, which only matters for
+#         a probabilistic model (and does not for any deterministic model).
+eval_random_seed: 128
+
+# Define the optimizer and its parameters
+optimizer:
+  name: 'Adam'
+  params:
+    lr: 1e-3 # Initial learning rate (that might be changed over the epochs by the learning rate schedule)
+    weight_decay: 0
+
+# Define the learning rate scheduler
+# Remark: name='ExponentialLR' with gamma=1.0 (in params) corresponds to a constant learning rate throughout training
+learning_rate_scheduler:
+  name: 'ExponentialLR'
+  params:
+    gamma: 1.0
+
+# Define the (relative) path in which the model parameters and tracked quantitites 
+# (collectively called 'checkpoints') should be saved in
+checkpoints_dir_path: './checkpoints'
+
+# Define in which epoch intervals we should evaluate the metric
+eval_metric_epoch_step: 1
+
+# Define in which epoch intervals we should save the model parameters
+save_model_epoch_step: 5
+
+# Define in which path the figures from training should be saved in
+figures_dir_path: './figures/training/'

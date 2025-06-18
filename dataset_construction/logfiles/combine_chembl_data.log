@@ -1,0 +1,650 @@
+[2023-06-30 15:12:09] [INFO]: 
+
+====================================================================================================
+Protein family: kinases
+====================================================================================================
+[2023-06-30 15:12:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q99570' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NRH2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:17] [INFO]: Removed 0 entries for protein with UniProt ID 'P21675' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y2K2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y3S1' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:17] [INFO]: Removed 1678 entries for protein with UniProt ID 'P28482' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:18] [INFO]: Removed 0 entries for protein with UniProt ID 'P08631' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:18] [INFO]: Removed 2 entries for protein with UniProt ID 'P45983' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:18] [INFO]: Removed 0 entries for protein with UniProt ID 'O94806' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:18] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9H4A3' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:18] [INFO]: No Protein data available for the protein with UniProt ID 'Q96QP1'.
+[2023-06-30 15:12:18] [INFO]: Removed 1674 entries for protein with UniProt ID 'P17948' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:18] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9H3Y6' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:19] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8NI60' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:19] [INFO]: Removed 44 entries for protein with UniProt ID 'P12931' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:19] [INFO]: Removed 3 entries for protein with UniProt ID 'O00311' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:19] [INFO]: Removed 2 entries for protein with UniProt ID 'Q15759' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:19] [INFO]: No Protein data available for the protein with UniProt ID 'Q9UHY1'.
+[2023-06-30 15:12:19] [INFO]: Removed 0 entries for protein with UniProt ID 'O60307' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:19] [INFO]: Removed 0 entries for protein with UniProt ID 'O14733' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:19] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NRM7' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:20] [INFO]: Removed 15 entries for protein with UniProt ID 'P36888' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:20] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BWU1' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:20] [INFO]: Removed 0 entries for protein with UniProt ID 'Q00536' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:20] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UBS0' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:21] [INFO]: Removed 0 entries for protein with UniProt ID 'O14757' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:21] [INFO]: No Protein data available for the protein with UniProt ID 'Q8N165'.
+[2023-06-30 15:12:21] [INFO]: Removed 0 entries for protein with UniProt ID 'Q6VAB6' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:21] [INFO]: Removed 0 entries for protein with UniProt ID 'O15146' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:21] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8IZX4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:21] [INFO]: Removed 0 entries for protein with UniProt ID 'Q14164' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:21] [INFO]: Removed 0 entries for protein with UniProt ID 'Q14680' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:21] [INFO]: Removed 0 entries for protein with UniProt ID 'P22607' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:22] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8WU08' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:22] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8IVH8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:22] [INFO]: Removed 0 entries for protein with UniProt ID 'P10398' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:22] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96NX5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:22] [INFO]: Removed 0 entries for protein with UniProt ID 'Q5TCX8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:22] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UF33' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:22] [INFO]: Removed 0 entries for protein with UniProt ID 'Q08881' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:22] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13315' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:22] [INFO]: Removed 0 entries for protein with UniProt ID 'P16591' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:23] [INFO]: Removed 1 entries for protein with UniProt ID 'Q06187' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:23] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13233' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:23] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13882' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:23] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13873' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:23] [INFO]: Removed 14 entries for protein with UniProt ID 'P35916' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:23] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NRL2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:23] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96KB5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:23] [INFO]: Removed 0 entries for protein with UniProt ID 'Q6DT37' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:23] [INFO]: Removed 0 entries for protein with UniProt ID 'P21860' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:23] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13418' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:23] [INFO]: Removed 2 entries for protein with UniProt ID 'Q16620' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:24] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y243' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:24] [INFO]: Removed 0 entries for protein with UniProt ID 'P29322' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:24] [INFO]: Removed 0 entries for protein with UniProt ID 'P35590' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:24] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8NEV4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:24] [INFO]: Removed 0 entries for protein with UniProt ID 'P31152' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:24] [INFO]: Removed 0 entries for protein with UniProt ID 'P43250' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:24] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BVS4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:24] [INFO]: Removed 0 entries for protein with UniProt ID 'P49761' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:24] [INFO]: Removed 0 entries for protein with UniProt ID 'P52564' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:24] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BYT3' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:24] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13976' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:24] [INFO]: Removed 0 entries for protein with UniProt ID 'Q5TCY1' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:24] [INFO]: Removed 0 entries for protein with UniProt ID 'P17612' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:25] [INFO]: Removed 0 entries for protein with UniProt ID 'P09769' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:25] [INFO]: Removed 12 entries for protein with UniProt ID 'P43405' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:25] [INFO]: Removed 0 entries for protein with UniProt ID 'Q00534' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:25] [INFO]: Removed 1 entries for protein with UniProt ID 'P07949' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:25] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8TDC3' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:26] [INFO]: Removed 0 entries for protein with UniProt ID 'P51956' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:26] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9HBY8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:26] [INFO]: Removed 0 entries for protein with UniProt ID 'P57078' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:26] [INFO]: No Protein data available for the protein with UniProt ID 'Q16671'.
+[2023-06-30 15:12:26] [INFO]: Removed 0 entries for protein with UniProt ID 'P49674' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:27] [INFO]: Removed 29 entries for protein with UniProt ID 'P35968' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:27] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y572' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:27] [INFO]: Removed 0 entries for protein with UniProt ID 'Q59H18' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:27] [INFO]: Removed 0 entries for protein with UniProt ID 'Q6ZWH5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:27] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BRS2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:27] [INFO]: Removed 0 entries for protein with UniProt ID 'Q86TW2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:27] [INFO]: Removed 0 entries for protein with UniProt ID 'O14730' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:27] [INFO]: Removed 0 entries for protein with UniProt ID 'Q16659' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:28] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9H2X6' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:28] [INFO]: No entries left for protein with UniProt ID 'Q01974' after filtering, continue to next protein
+[2023-06-30 15:12:28] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13705' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:28] [INFO]: Removed 0 entries for protein with UniProt ID 'O75460' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:28] [INFO]: Removed 0 entries for protein with UniProt ID 'P42679' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:28] [INFO]: No Protein data available for the protein with UniProt ID 'Q14296'.
+[2023-06-30 15:12:28] [INFO]: Removed 0 entries for protein with UniProt ID 'O75914' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:28] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8WTQ7' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:28] [INFO]: Removed 0 entries for protein with UniProt ID 'P48730' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:28] [INFO]: No entries left for protein with UniProt ID 'Q96J92' after filtering, continue to next protein
+[2023-06-30 15:12:28] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NWZ3' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:29] [INFO]: No Protein data available for the protein with UniProt ID 'Q504Y2'.
+[2023-06-30 15:12:29] [INFO]: Removed 0 entries for protein with UniProt ID 'P10721' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:29] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UIK4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:29] [INFO]: No Protein data available for the protein with UniProt ID 'P53004'.
+[2023-06-30 15:12:29] [INFO]: Removed 0 entries for protein with UniProt ID 'P54756' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:29] [INFO]: Removed 0 entries for protein with UniProt ID 'P54753' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:29] [INFO]: Removed 0 entries for protein with UniProt ID 'P07333' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:29] [INFO]: No entries left for protein with UniProt ID 'Q13263' after filtering, continue to next protein
+[2023-06-30 15:12:30] [INFO]: Removed 18 entries for protein with UniProt ID 'O14965' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:30] [INFO]: No Protein data available for the protein with UniProt ID 'Q13308'.
+[2023-06-30 15:12:30] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8IVT5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:30] [INFO]: Removed 0 entries for protein with UniProt ID 'P57059' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:30] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8TF76' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:30] [INFO]: Removed 0 entries for protein with UniProt ID 'P49759' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:30] [INFO]: Removed 0 entries for protein with UniProt ID 'P41743' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:30] [INFO]: Removed 14 entries for protein with UniProt ID 'P09619' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:31] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8IZL9' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:31] [INFO]: Removed 0 entries for protein with UniProt ID 'P53779' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:31] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BXA6' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:31] [INFO]: Removed 1 entries for protein with UniProt ID 'O60885' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:32] [INFO]: Removed 1 entries for protein with UniProt ID 'Q15746' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:32] [INFO]: Removed 0 entries for protein with UniProt ID 'Q04759' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:32] [INFO]: Removed 0 entries for protein with UniProt ID 'P78368' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:32] [INFO]: Removed 14 entries for protein with UniProt ID 'P41279' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:32] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9HBH9' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:32] [INFO]: Removed 1637 entries for protein with UniProt ID 'P06241' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:33] [INFO]: Removed 0 entries for protein with UniProt ID 'P06493' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:33] [INFO]: Removed 0 entries for protein with UniProt ID 'P43403' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:33] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9P286' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:33] [INFO]: Removed 0 entries for protein with UniProt ID 'P30530' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:33] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UPE1' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:33] [INFO]: No Protein data available for the protein with UniProt ID 'Q5JZY3'.
+[2023-06-30 15:12:33] [INFO]: Removed 4 entries for protein with UniProt ID 'Q16566' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:33] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15303' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:33] [INFO]: No Protein data available for the protein with UniProt ID 'P34925'.
+[2023-06-30 15:12:33] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BX84' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:33] [INFO]: Removed 0 entries for protein with UniProt ID 'O75116' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:34] [INFO]: Removed 2 entries for protein with UniProt ID 'Q96L34' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:34] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8IWQ3' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:34] [INFO]: Removed 0 entries for protein with UniProt ID 'P51817' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:34] [INFO]: Removed 14 entries for protein with UniProt ID 'P68400' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:34] [INFO]: Removed 0 entries for protein with UniProt ID 'P15735' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:34] [INFO]: Removed 0 entries for protein with UniProt ID 'Q06418' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:34] [INFO]: Removed 0 entries for protein with UniProt ID 'O43318' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:34] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13464' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: Removed 0 entries for protein with UniProt ID 'O14976' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: Removed 0 entries for protein with UniProt ID 'Q08345' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: Removed 0 entries for protein with UniProt ID 'O94921' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: Removed 0 entries for protein with UniProt ID 'O14578' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: No Protein data available for the protein with UniProt ID 'Q02846'.
+[2023-06-30 15:12:35] [INFO]: Removed 0 entries for protein with UniProt ID 'O15164' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96S44' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: Removed 0 entries for protein with UniProt ID 'O76039' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96D53' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y2U5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: Removed 1 entries for protein with UniProt ID 'Q96RR4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: Removed 0 entries for protein with UniProt ID 'P54764' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: Removed 0 entries for protein with UniProt ID 'P51617' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y4K4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: No Protein data available for the protein with UniProt ID 'O60229'.
+[2023-06-30 15:12:35] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96BR1' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:35] [INFO]: No Protein data available for the protein with UniProt ID 'Q8IWB6'.
+[2023-06-30 15:12:36] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y2H1' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:36] [INFO]: Removed 0 entries for protein with UniProt ID 'Q92772' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:36] [INFO]: Removed 0 entries for protein with UniProt ID 'Q58F21' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:36] [INFO]: Removed 0 entries for protein with UniProt ID 'P80192' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:36] [INFO]: Removed 0 entries for protein with UniProt ID 'P22455' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:36] [INFO]: Removed 0 entries for protein with UniProt ID 'P51812' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:36] [INFO]: No entries left for protein with UniProt ID 'P00540' after filtering, continue to next protein
+[2023-06-30 15:12:36] [INFO]: Removed 0 entries for protein with UniProt ID 'Q6P0Q8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:36] [INFO]: Removed 0 entries for protein with UniProt ID 'P50613' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:36] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UL54' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:36] [INFO]: Removed 0 entries for protein with UniProt ID 'Q7KZI7' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:36] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y616' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:36] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15569' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:36] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UQM7' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:37] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UHD2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:37] [INFO]: Removed 14 entries for protein with UniProt ID 'O00444' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:37] [INFO]: Removed 0 entries for protein with UniProt ID 'Q7RTN6' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:37] [INFO]: No Protein data available for the protein with UniProt ID 'Q86TB3'.
+[2023-06-30 15:12:37] [INFO]: Removed 0 entries for protein with UniProt ID 'P49336' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:37] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UPN9' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:37] [INFO]: Removed 1665 entries for protein with UniProt ID 'Q16539' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:38] [INFO]: Removed 1709 entries for protein with UniProt ID 'P06239' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:38] [INFO]: No Protein data available for the protein with UniProt ID 'Q8TAS1'.
+[2023-06-30 15:12:38] [INFO]: Removed 0 entries for protein with UniProt ID 'P04049' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:38] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9H1R3' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:39] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96Q40' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:39] [INFO]: No Protein data available for the protein with UniProt ID 'Q96RU7'.
+[2023-06-30 15:12:39] [INFO]: Removed 0 entries for protein with UniProt ID 'Q58A45' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:39] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8NER5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:39] [INFO]: Removed 5 entries for protein with UniProt ID 'P00519' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:39] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15118' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:39] [INFO]: Removed 0 entries for protein with UniProt ID 'Q14012' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:40] [INFO]: Removed 14 entries for protein with UniProt ID 'P08581' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:40] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9C0K7' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:40] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15349' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:40] [INFO]: Removed 0 entries for protein with UniProt ID 'P31751' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:40] [INFO]: Removed 0 entries for protein with UniProt ID 'P27037' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:40] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13523' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:40] [INFO]: No Protein data available for the protein with UniProt ID 'Q8TEA7'.
+[2023-06-30 15:12:41] [INFO]: Removed 0 entries for protein with UniProt ID 'Q12851' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:41] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y5S2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:41] [INFO]: Removed 0 entries for protein with UniProt ID 'Q16584' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:41] [INFO]: Removed 0 entries for protein with UniProt ID 'O43283' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:41] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8NB16' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:41] [INFO]: Removed 0 entries for protein with UniProt ID 'O14920' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:41] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NSY1' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:41] [INFO]: Removed 0 entries for protein with UniProt ID 'P16234' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:41] [INFO]: Removed 2 entries for protein with UniProt ID 'Q9UM73' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:42] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8IVW4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:42] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BZL6' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:42] [INFO]: Removed 0 entries for protein with UniProt ID 'Q76MJ5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:42] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UKE5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:42] [INFO]: Removed 0 entries for protein with UniProt ID 'P37173' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:42] [INFO]: Removed 0 entries for protein with UniProt ID 'O75582' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:42] [INFO]: Removed 0 entries for protein with UniProt ID 'P35626' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:42] [INFO]: Removed 1 entries for protein with UniProt ID 'Q02156' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:42] [INFO]: Removed 2 entries for protein with UniProt ID 'P25440' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:42] [INFO]: Removed 0 entries for protein with UniProt ID 'P45985' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:42] [INFO]: Removed 0 entries for protein with UniProt ID 'Q05823' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:42] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15139' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:42] [INFO]: No Protein data available for the protein with UniProt ID 'Q6P3W7'.
+[2023-06-30 15:12:42] [INFO]: Removed 0 entries for protein with UniProt ID 'O95382' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:43] [INFO]: Removed 0 entries for protein with UniProt ID 'Q86UX6' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:43] [INFO]: Removed 1 entries for protein with UniProt ID 'P05129' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:43] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96PF2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:43] [INFO]: Removed 0 entries for protein with UniProt ID 'Q02750' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:43] [INFO]: Removed 0 entries for protein with UniProt ID 'P32298' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:43] [INFO]: Removed 0 entries for protein with UniProt ID 'Q6ZN16' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:43] [INFO]: Removed 0 entries for protein with UniProt ID 'P53671' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:43] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BYP7' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:43] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y463' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:43] [INFO]: Removed 9 entries for protein with UniProt ID 'O15530' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:43] [INFO]: Removed 0 entries for protein with UniProt ID 'Q14004' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:44] [INFO]: Removed 0 entries for protein with UniProt ID 'Q99683' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:44] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8IU85' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:44] [INFO]: No Protein data available for the protein with UniProt ID 'Q96C45'.
+[2023-06-30 15:12:44] [INFO]: Removed 0 entries for protein with UniProt ID 'P41240' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:44] [INFO]: Removed 0 entries for protein with UniProt ID 'O43187' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:44] [INFO]: Removed 0 entries for protein with UniProt ID 'Q16288' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:44] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96S38' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:44] [INFO]: Removed 0 entries for protein with UniProt ID 'Q5VT25' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:44] [INFO]: Removed 2 entries for protein with UniProt ID 'Q13546' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:44] [INFO]: Removed 0 entries for protein with UniProt ID 'O43293' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:44] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96Q04' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:44] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y2H9' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:44] [INFO]: Removed 15 entries for protein with UniProt ID 'Q96GD4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:45] [INFO]: No Protein data available for the protein with UniProt ID 'P51841'.
+[2023-06-30 15:12:45] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8NE63' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:45] [INFO]: Removed 0 entries for protein with UniProt ID 'Q04912' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:45] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NRP7' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:45] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13470' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:45] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BXM7' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:45] [INFO]: Removed 0 entries for protein with UniProt ID 'P22694' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:45] [INFO]: Removed 14 entries for protein with UniProt ID 'P31749' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:46] [INFO]: Removed 0 entries for protein with UniProt ID 'P29320' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:46] [INFO]: Removed 0 entries for protein with UniProt ID 'P23458' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:46] [INFO]: Removed 0 entries for protein with UniProt ID 'P51451' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:46] [INFO]: Removed 0 entries for protein with UniProt ID 'Q86SG6' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:46] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96RU8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:46] [INFO]: No Protein data available for the protein with UniProt ID 'Q9Y4A5'.
+[2023-06-30 15:12:46] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13163' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:47] [INFO]: Removed 0 entries for protein with UniProt ID 'Q5S007' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:47] [INFO]: Removed 0 entries for protein with UniProt ID 'P51813' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:47] [INFO]: Removed 0 entries for protein with UniProt ID 'Q7L7X3' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:47] [INFO]: Removed 0 entries for protein with UniProt ID 'P11274' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:47] [INFO]: Removed 0 entries for protein with UniProt ID 'P27448' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:47] [INFO]: No Protein data available for the protein with UniProt ID 'Q15772'.
+[2023-06-30 15:12:47] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UEW8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:47] [INFO]: Removed 0 entries for protein with UniProt ID 'O14936' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:47] [INFO]: Removed 0 entries for protein with UniProt ID 'P45984' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:48] [INFO]: Removed 0 entries for protein with UniProt ID 'P49137' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:48] [INFO]: Removed 0 entries for protein with UniProt ID 'Q16513' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:48] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9P0L2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:48] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9H093' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:48] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13535' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:48] [INFO]: Removed 0 entries for protein with UniProt ID 'O00238' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:48] [INFO]: Removed 0 entries for protein with UniProt ID 'Q6XUX3' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:48] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96QT4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:48] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96PN8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:48] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8IYT8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:48] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8NG66' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:48] [INFO]: Removed 0 entries for protein with UniProt ID 'P29376' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:48] [INFO]: No Protein data available for the protein with UniProt ID 'Q5VST9'.
+[2023-06-30 15:12:48] [INFO]: Removed 0 entries for protein with UniProt ID 'Q16644' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:49] [INFO]: Removed 0 entries for protein with UniProt ID 'P49760' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:49] [INFO]: Removed 0 entries for protein with UniProt ID 'Q99986' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:49] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8N568' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:49] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UIG0' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:49] [INFO]: Removed 0 entries for protein with UniProt ID 'P11801' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:49] [INFO]: Removed 0 entries for protein with UniProt ID 'Q14289' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:49] [INFO]: No Protein data available for the protein with UniProt ID 'Q9H5K3'.
+[2023-06-30 15:12:49] [INFO]: Removed 0 entries for protein with UniProt ID 'O43781' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:49] [INFO]: Removed 0 entries for protein with UniProt ID 'Q12852' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:49] [INFO]: Removed 56 entries for protein with UniProt ID 'P24941' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:49] [INFO]: No entries left for protein with UniProt ID 'O14874' after filtering, continue to next protein
+[2023-06-30 15:12:50] [INFO]: Removed 0 entries for protein with UniProt ID 'O15111' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:50] [INFO]: No Protein data available for the protein with UniProt ID 'Q6J9G0'.
+[2023-06-30 15:12:50] [INFO]: Removed 0 entries for protein with UniProt ID 'Q07002' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:50] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9H4B4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:50] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NYV4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:50] [INFO]: Removed 0 entries for protein with UniProt ID 'Q16512' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:50] [INFO]: No Protein data available for the protein with UniProt ID 'Q8N2I9'.
+[2023-06-30 15:12:50] [INFO]: Removed 0 entries for protein with UniProt ID 'P78362' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:50] [INFO]: Removed 1 entries for protein with UniProt ID 'P29597' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:50] [INFO]: Removed 0 entries for protein with UniProt ID 'Q02779' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:50] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BXA7' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:50] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8WXR4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:50] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8NFD2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:50] [INFO]: Removed 0 entries for protein with UniProt ID 'Q86UE8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:50] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BUB5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:51] [INFO]: Removed 0 entries for protein with UniProt ID 'P51955' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:51] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13164' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:51] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UPZ9' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:51] [INFO]: No Protein data available for the protein with UniProt ID 'Q12979'.
+[2023-06-30 15:12:51] [INFO]: Removed 0 entries for protein with UniProt ID 'Q86Z02' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:51] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8N4C8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:51] [INFO]: Removed 0 entries for protein with UniProt ID 'O43353' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:51] [INFO]: Removed 14 entries for protein with UniProt ID 'P15056' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:52] [INFO]: Removed 0 entries for protein with UniProt ID 'P36896' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:52] [INFO]: Removed 1666 entries for protein with UniProt ID 'P27361' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:52] [INFO]: Removed 0 entries for protein with UniProt ID 'P08922' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:52] [INFO]: Removed 0 entries for protein with UniProt ID 'Q00526' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:52] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UBE8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:52] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15119' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:52] [INFO]: No Protein data available for the protein with UniProt ID 'P20594'.
+[2023-06-30 15:12:52] [INFO]: No entries left for protein with UniProt ID 'O75962' after filtering, continue to next protein
+[2023-06-30 15:12:52] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13131' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:53] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y6R4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:53] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9HCP0' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:53] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9HC98' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:53] [INFO]: Removed 0 entries for protein with UniProt ID 'P51957' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:53] [INFO]: No Protein data available for the protein with UniProt ID 'Q01973'.
+[2023-06-30 15:12:53] [INFO]: Removed 14 entries for protein with UniProt ID 'P54760' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:53] [INFO]: Removed 0 entries for protein with UniProt ID 'O00418' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:53] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9H0K1' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:53] [INFO]: Removed 0 entries for protein with UniProt ID 'P30291' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:53] [INFO]: Removed 0 entries for protein with UniProt ID 'P22612' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:53] [INFO]: Removed 0 entries for protein with UniProt ID 'Q07912' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:53] [INFO]: Removed 0 entries for protein with UniProt ID 'P07947' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:54] [INFO]: Removed 0 entries for protein with UniProt ID 'P24723' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:54] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15831' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:54] [INFO]: Removed 0 entries for protein with UniProt ID 'Q86Y07' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:54] [INFO]: No Protein data available for the protein with UniProt ID 'Q96KG9'.
+[2023-06-30 15:12:54] [INFO]: Removed 0 entries for protein with UniProt ID 'Q00537' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:54] [INFO]: No entries left for protein with UniProt ID 'O60566' after filtering, continue to next protein
+[2023-06-30 15:12:54] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96SB4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:54] [INFO]: Removed 21 entries for protein with UniProt ID 'P11309' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:54] [INFO]: Removed 0 entries for protein with UniProt ID 'P16066' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:55] [INFO]: Removed 0 entries for protein with UniProt ID 'Q99558' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:55] [INFO]: Removed 0 entries for protein with UniProt ID 'P07332' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:55] [INFO]: Removed 0 entries for protein with UniProt ID 'P54646' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:55] [INFO]: No Protein data available for the protein with UniProt ID 'Q8IWU2'.
+[2023-06-30 15:12:55] [INFO]: Removed 0 entries for protein with UniProt ID 'O00506' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:55] [INFO]: Removed 2 entries for protein with UniProt ID 'O15264' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:55] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96Q15' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:55] [INFO]: Removed 0 entries for protein with UniProt ID 'O15075' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:55] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9P2K8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:55] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13555' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:55] [INFO]: Removed 15 entries for protein with UniProt ID 'P08069' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:56] [INFO]: Removed 0 entries for protein with UniProt ID 'P25098' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:56] [INFO]: No Protein data available for the protein with UniProt ID 'Q8IZE3'.
+[2023-06-30 15:12:56] [INFO]: Removed 0 entries for protein with UniProt ID 'P53355' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:56] [INFO]: Removed 0 entries for protein with UniProt ID 'Q99759' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:56] [INFO]: Removed 1 entries for protein with UniProt ID 'Q05513' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:56] [INFO]: Removed 0 entries for protein with UniProt ID 'P21802' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:56] [INFO]: Removed 0 entries for protein with UniProt ID 'P19784' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:56] [INFO]: Removed 0 entries for protein with UniProt ID 'O75385' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:56] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13557' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:57] [INFO]: Removed 2 entries for protein with UniProt ID 'P53778' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:57] [INFO]: Removed 4 entries for protein with UniProt ID 'O60674' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:58] [INFO]: Removed 0 entries for protein with UniProt ID 'P42684' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:58] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y6E0' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:58] [INFO]: Removed 0 entries for protein with UniProt ID 'O75676' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:58] [INFO]: No entries left for protein with UniProt ID 'P25092' after filtering, continue to next protein
+[2023-06-30 15:12:58] [INFO]: Removed 1 entries for protein with UniProt ID 'Q8N5S9' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:58] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9H2K8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:58] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15059' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:58] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15208' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:58] [INFO]: No Protein data available for the protein with UniProt ID 'Q96QS6'.
+[2023-06-30 15:12:58] [INFO]: Removed 14 entries for protein with UniProt ID 'O60285' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:58] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15120' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:58] [INFO]: Removed 1685 entries for protein with UniProt ID 'P17252' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:58] [INFO]: Removed 0 entries for protein with UniProt ID 'O15197' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:58] [INFO]: Removed 0 entries for protein with UniProt ID 'Q92519' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:58] [INFO]: Removed 0 entries for protein with UniProt ID 'O96017' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:59] [INFO]: Removed 13 entries for protein with UniProt ID 'Q13627' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:59] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96RG2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:12:59] [INFO]: Removed 0 entries for protein with UniProt ID 'P52333' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:00] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9HAZ1' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:00] [INFO]: Removed 0 entries for protein with UniProt ID 'O96013' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:00] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9H792' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:00] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8IY84' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:00] [INFO]: Removed 0 entries for protein with UniProt ID 'Q09013' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:00] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NZJ5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:00] [INFO]: Removed 33 entries for protein with UniProt ID 'P11802' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:00] [INFO]: Removed 0 entries for protein with UniProt ID 'Q00532' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:00] [INFO]: Removed 0 entries for protein with UniProt ID 'P49842' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:01] [INFO]: Removed 0 entries for protein with UniProt ID 'P34947' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:01] [INFO]: Removed 0 entries for protein with UniProt ID 'Q92630' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:01] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8TD19' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:01] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13153' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:01] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15131' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:01] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15418' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:01] [INFO]: Removed 0 entries for protein with UniProt ID 'P36897' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:01] [INFO]: Removed 0 entries for protein with UniProt ID 'Q16832' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:01] [INFO]: Removed 0 entries for protein with UniProt ID 'P48729' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:01] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NYL2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:02] [INFO]: Removed 0 entries for protein with UniProt ID 'P23443' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:02] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15835' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:02] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UQB9' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:02] [INFO]: Removed 0 entries for protein with UniProt ID 'P37023' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:02] [INFO]: Removed 24 entries for protein with UniProt ID 'P53350' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:02] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13554' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:02] [INFO]: Removed 0 entries for protein with UniProt ID 'Q6P5Z2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:02] [INFO]: Removed 0 entries for protein with UniProt ID 'P21709' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:03] [INFO]: Removed 15 entries for protein with UniProt ID 'Q02763' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:03] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UEE5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:03] [INFO]: Removed 0 entries for protein with UniProt ID 'O75716' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:03] [INFO]: Removed 2 entries for protein with UniProt ID 'Q05655' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:03] [INFO]: Removed 0 entries for protein with UniProt ID 'Q99640' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:03] [INFO]: Removed 0 entries for protein with UniProt ID 'O43683' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:03] [INFO]: Removed 0 entries for protein with UniProt ID 'Q6IQ55' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:03] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96PY6' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:03] [INFO]: Removed 0 entries for protein with UniProt ID 'Q86V86' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:04] [INFO]: Removed 0 entries for protein with UniProt ID 'P33981' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:04] [INFO]: Removed 0 entries for protein with UniProt ID 'O00141' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:04] [INFO]: Removed 0 entries for protein with UniProt ID 'Q6SA08' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:04] [INFO]: Removed 0 entries for protein with UniProt ID 'Q6PHR2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:04] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8IW41' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:04] [INFO]: Removed 25 entries for protein with UniProt ID 'Q05397' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:04] [INFO]: Removed 0 entries for protein with UniProt ID 'P0C1S8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:04] [INFO]: No entries left for protein with UniProt ID 'Q8IV63' after filtering, continue to next protein
+[2023-06-30 15:13:04] [INFO]: No Protein data available for the protein with UniProt ID 'Q96L96'.
+[2023-06-30 15:13:04] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13237' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:04] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y6M4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:05] [INFO]: Removed 0 entries for protein with UniProt ID 'Q00535' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:05] [INFO]: No Protein data available for the protein with UniProt ID 'Q7Z2Y5'.
+[2023-06-30 15:13:05] [INFO]: Removed 0 entries for protein with UniProt ID 'P29323' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:05] [INFO]: Removed 0 entries for protein with UniProt ID 'P0C264' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:05] [INFO]: Removed 14 entries for protein with UniProt ID 'P06213' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:05] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y5P4' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:05] [INFO]: Removed 2 entries for protein with UniProt ID 'P49841' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:06] [INFO]: Removed 0 entries for protein with UniProt ID 'O95747' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:06] [INFO]: Removed 0 entries for protein with UniProt ID 'P11362' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:06] [INFO]: No Protein data available for the protein with UniProt ID 'Q6ZMQ8'.
+[2023-06-30 15:13:06] [INFO]: Removed 0 entries for protein with UniProt ID 'P14616' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:06] [INFO]: Removed 0 entries for protein with UniProt ID 'P42685' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:06] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UKI8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:06] [INFO]: No Protein data available for the protein with UniProt ID 'Q7Z7A4'.
+[2023-06-30 15:13:06] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8TDR2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:07] [INFO]: Removed 0 entries for protein with UniProt ID 'P42345' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:07] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8TD08' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:07] [INFO]: Removed 0 entries for protein with UniProt ID 'Q2M2I8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:07] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9H422' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:07] [INFO]: Removed 0 entries for protein with UniProt ID 'P36894' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:07] [INFO]: Removed 0 entries for protein with UniProt ID 'P36507' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:07] [INFO]: Removed 0 entries for protein with UniProt ID 'Q32MK0' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:07] [INFO]: Removed 0 entries for protein with UniProt ID 'P50750' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:08] [INFO]: Removed 5 entries for protein with UniProt ID 'P05771' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:08] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NR20' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:08] [INFO]: Removed 0 entries for protein with UniProt ID 'Q92918' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:08] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NQU5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:09] [INFO]: Removed 1703 entries for protein with UniProt ID 'P00533' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:10] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96S53' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:10] [INFO]: Removed 1684 entries for protein with UniProt ID 'P04626' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:10] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8TDX7' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:10] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NYY3' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:10] [INFO]: Removed 0 entries for protein with UniProt ID 'P53667' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:10] [INFO]: Removed 0 entries for protein with UniProt ID 'O94768' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:10] [INFO]: Removed 0 entries for protein with UniProt ID 'P42681' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:11] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13188' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:11] [INFO]: Removed 0 entries for protein with UniProt ID 'P20794' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:11] [INFO]: Removed 0 entries for protein with UniProt ID 'P21127' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:11] [INFO]: Removed 0 entries for protein with UniProt ID 'P29317' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:11] [INFO]: Removed 0 entries for protein with UniProt ID 'O95835' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:11] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96GX5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:11] [INFO]: No Protein data available for the protein with UniProt ID 'Q8WZ42'.
+[2023-06-30 15:13:11] [INFO]: Removed 0 entries for protein with UniProt ID 'O94804' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:11] [INFO]: Removed 0 entries for protein with UniProt ID 'Q16654' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:11] [INFO]: Removed 0 entries for protein with UniProt ID 'Q12866' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:11] [INFO]: Removed 15 entries for protein with UniProt ID 'P07948' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:11] [INFO]: Removed 0 entries for protein with UniProt ID 'O95819' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:12] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9P1W9' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:12] [INFO]: Removed 0 entries for protein with UniProt ID 'P54762' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:12] [INFO]: Removed 0 entries for protein with UniProt ID 'Q15375' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:12] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13177' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:12] [INFO]: Removed 9 entries for protein with UniProt ID 'P04629' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:12] [INFO]: No Protein data available for the protein with UniProt ID 'Q86YV5'.
+[2023-06-30 15:13:13] [INFO]: Removed 0 entries for protein with UniProt ID 'P19525' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:13] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9H2G2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:13] [INFO]: Removed 0 entries for protein with UniProt ID 'P46734' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:13] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UK32' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:13] [INFO]: Removed 0 entries for protein with UniProt ID 'P78527' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:13] [INFO]: No Protein data available for the protein with UniProt ID 'Q38SD2'.
+[2023-06-30 15:13:13] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BQI3' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:13] [INFO]: Removed 0 entries for protein with UniProt ID 'P42680' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:13] [INFO]: Removed 0 entries for protein with UniProt ID 'P49840' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:13] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9P289' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:13] [INFO]: Removed 0 entries for protein with UniProt ID 'O15021' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:13] [INFO]: Removed 0 entries for protein with UniProt ID 'Q04771' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:13] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13043' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:14] [INFO]: No Protein data available for the protein with UniProt ID 'A2RU49'.
+[2023-06-30 15:13:14] [INFO]: No Protein data available for the protein with UniProt ID 'Q4G0N4'.
+[2023-06-30 15:13:14] [INFO]: No Protein data available for the protein with UniProt ID 'Q9UHJ6'.
+[2023-06-30 15:13:14] [INFO]: No Protein data available for the protein with UniProt ID 'Q9Y6K8'.
+[2023-06-30 15:13:14] [INFO]: Removed 0 entries for protein with UniProt ID 'P50053' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:14] [INFO]: Removed 0 entries for protein with UniProt ID 'O95544' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:14] [INFO]: No Protein data available for the protein with UniProt ID 'P11908'.
+[2023-06-30 15:13:14] [INFO]: Removed 0 entries for protein with UniProt ID 'P19367' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:14] [INFO]: Removed 0 entries for protein with UniProt ID 'P30085' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:14] [INFO]: No Protein data available for the protein with UniProt ID 'Q9H477'.
+[2023-06-30 15:13:14] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BZ23' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:14] [INFO]: Removed 0 entries for protein with UniProt ID 'O00764' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:14] [INFO]: Removed 0 entries for protein with UniProt ID 'P16118' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:14] [INFO]: No Protein data available for the protein with UniProt ID 'P33076'.
+[2023-06-30 15:13:14] [INFO]: No Protein data available for the protein with UniProt ID 'O75912'.
+[2023-06-30 15:13:14] [INFO]: Removed 0 entries for protein with UniProt ID 'Q16875' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:14] [INFO]: Removed 0 entries for protein with UniProt ID 'O00329' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:14] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8NEB9' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:14] [INFO]: Removed 0 entries for protein with UniProt ID 'P35557' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:14] [INFO]: Removed 0 entries for protein with UniProt ID 'O00443' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:15] [INFO]: Removed 1 entries for protein with UniProt ID 'P14618' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:15] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8TBX8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:15] [INFO]: Removed 0 entries for protein with UniProt ID 'P60891' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:15] [INFO]: No entries left for protein with UniProt ID 'Q9H3S4' after filtering, continue to next protein
+[2023-06-30 15:13:15] [INFO]: Removed 0 entries for protein with UniProt ID 'P32189' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:15] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9HA47' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:15] [INFO]: Removed 0 entries for protein with UniProt ID 'P52789' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:15] [INFO]: Removed 0 entries for protein with UniProt ID 'P30613' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:15] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UHH9' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:15] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8NHU3' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:15] [INFO]: No entries left for protein with UniProt ID 'Q6PFW1' after filtering, continue to next protein
+[2023-06-30 15:13:15] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8TCT0' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:15] [INFO]: No entries left for protein with UniProt ID 'Q16854' after filtering, continue to next protein
+[2023-06-30 15:13:15] [INFO]: No Protein data available for the protein with UniProt ID 'P21108'.
+[2023-06-30 15:13:15] [INFO]: Removed 0 entries for protein with UniProt ID 'P42336' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: No entries left for protein with UniProt ID 'O14986' after filtering, continue to next protein
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'O95340' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'Q9Y3D8'.
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'O00142' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BZX2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'O75063'.
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'P17540'.
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'Q86XP1' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'Q96C11'.
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NRA0' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'P00558' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'O75414'.
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'Q8IVS8'.
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'Q3LXA3'.
+[2023-06-30 15:13:16] [INFO]: No entries left for protein with UniProt ID 'P54886' after filtering, continue to next protein
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'O43314' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UBF8' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'Q99611'.
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'P27987' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13057' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: No entries left for protein with UniProt ID 'P17858' after filtering, continue to next protein
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'O00746'.
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'Q9NPI5'.
+[2023-06-30 15:13:16] [INFO]: No entries left for protein with UniProt ID 'Q16760' after filtering, continue to next protein
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'Q2TB90' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'Q9Y4B6'.
+[2023-06-30 15:13:16] [INFO]: No entries left for protein with UniProt ID 'P52790' after filtering, continue to next protein
+[2023-06-30 15:13:16] [INFO]: No entries left for protein with UniProt ID 'Q9UJ70' after filtering, continue to next protein
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'P23677'.
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'Q5KSL6'.
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'O60825' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: No Protein data available for the protein with UniProt ID 'Q9NWZ5'.
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'P42338' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:16] [INFO]: Removed 0 entries for protein with UniProt ID 'P23919' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'O75747' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q9UPQ8'.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q92551' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'O00750' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q8N0W3'.
+[2023-06-30 15:13:17] [INFO]: No entries left for protein with UniProt ID 'P15531' after filtering, continue to next protein
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9NYA1' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 7 entries for protein with UniProt ID 'P35790' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 1 entries for protein with UniProt ID 'P55263' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q14410'.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'O75191'.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q8NEV1'.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q9NVF9'.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q9UIJ7'.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8IXL6' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No entries left for protein with UniProt ID 'Q13572' after filtering, continue to next protein
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'P23743' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q9H8X2'.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q96M32'.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q5EBM0'.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'P08237' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q16774' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'P42356' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q16877' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9UQ88' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'P12532'.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q01415'.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8TE04' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No entries left for protein with UniProt ID 'P52429' after filtering, continue to next protein
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q03426'.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'P78356' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9BTU6' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q13232'.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'P27707' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96PC2' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q13574' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q96MA6'.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'O43252'.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q5TCS8'.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q8NFU5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No entries left for protein with UniProt ID 'P27144' after filtering, continue to next protein
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'P06732' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q9HBU6'.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'P48426' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q92989'.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q9BRR6'.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q9H479'.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'P51570' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q9NWW6'.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'P35558' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'P07205'.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q99755' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'O60331' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'P22392' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y223' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y259' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'P49903'.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q9Y5B8'.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q53H12' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 1 entries for protein with UniProt ID 'Q9H999' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q96T60' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No Protein data available for the protein with UniProt ID 'Q96DU7'.
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q01813' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:17] [INFO]: No entries left for protein with UniProt ID 'P12277' after filtering, continue to next protein
+[2023-06-30 15:13:17] [INFO]: Removed 0 entries for protein with UniProt ID 'Q86VZ5' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:18] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y6T7' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:18] [INFO]: No Protein data available for the protein with UniProt ID 'Q969G6'.
+[2023-06-30 15:13:18] [INFO]: No Protein data available for the protein with UniProt ID 'Q15126'.
+[2023-06-30 15:13:18] [INFO]: No entries left for protein with UniProt ID 'Q8TCG2' after filtering, continue to next protein
+[2023-06-30 15:13:18] [INFO]: Removed 0 entries for protein with UniProt ID 'P00568' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:18] [INFO]: Removed 0 entries for protein with UniProt ID 'P54819' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:18] [INFO]: Removed 0 entries for protein with UniProt ID 'P04183' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:18] [INFO]: No Protein data available for the protein with UniProt ID 'P52824'.
+[2023-06-30 15:13:18] [INFO]: Removed 0 entries for protein with UniProt ID 'P49619' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:18] [INFO]: No Protein data available for the protein with UniProt ID 'Q5SY16'.
+[2023-06-30 15:13:18] [INFO]: Removed 2 entries for protein with UniProt ID 'P48736' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:13:18] [INFO]: Removed 0 entries for protein with UniProt ID 'Q9Y2I7' because their pX value was None/NaN while they did not have any effect comment.
+[2023-06-30 15:18:02] [INFO]: Washed all canonical SMILES strings from ChEMBL entries and removed their stereochemistry (using 8 parallel jobs). Duration: 4.72min

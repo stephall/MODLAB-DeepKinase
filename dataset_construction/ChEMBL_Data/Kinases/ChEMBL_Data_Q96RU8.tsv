@@ -1,0 +1,3 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+	23373751	CHEMBL4885528	Trb1(TRI1PARP) Takeda global kinase panel	B	CN1C(=O)[C@@H](N2CCc3cn(CC4CCS(=O)(=O)CC4)nc3C2=O)COc2ccccc21		CHEMBL4097778		IC50	nM	1000.0	CHEMBL4524042	Homo sapiens	pIC50		6.0
+	23373751	CHEMBL4885528	Trb1(TRI1PARP) Takeda global kinase panel	B	CN1C(=O)[C@@H](N2CCc3cn(CC4CCS(=O)(=O)CC4)nc3C2=O)COc2ccccc21		CHEMBL4097778		IC50	nM	1000.0	CHEMBL4524042	Homo sapiens	pIC50		6.0

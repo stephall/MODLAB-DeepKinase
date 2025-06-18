@@ -1,0 +1,6 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+	12183837	CHEMBL2211984	Inhibition of PIK3R4	B	CC(C)(C)NS(=O)(=O)c1cncc(-c2ccn3nc(N)nc3c2)c1		CHEMBL2205766	<	IC50	nM	10000.0	CHEMBL2189144	Homo sapiens	pIC50		5.0
+	12183837	CHEMBL2211984	Inhibition of PIK3R4	B	CC(C)(C)NS(=O)(=O)c1cncc(-c2ccn3nc(N)nc3c2)c1		CHEMBL2205766	<	IC50	nM	10000.0	CHEMBL2189144	Homo sapiens	pIC50		5.0
+	18161865	CHEMBL4035995	Inhibition of VPS15 (unknown origin)	B	CNC(=O)c1nc(-c2nc(-c3cnc4ccccn34)c(C)nc2N)n(C)n1		CHEMBL4072637	=	IC50	nM	16000.0	CHEMBL2189144	Homo sapiens	IC50	uM	16.0
+Active	18275795	CHEMBL4118755	Binding affinity to PIK3R4 in human NCI-H23 cells at 1 uM by mass spectrometry based pull down assay	B	C=CC(=O)Nc1ccccc1Nc1nc(Nc2ccc(N3CCN(CCOCCOCCOCCNC(=O)CCCC[C@@H]4SC[C@@H]5NC(=O)N[C@H]45)CC3)cc2)ncc1Cl		CHEMBL4129274		Activity			CHEMBL2189144	Homo sapiens	Activity		
+Active	18275941	CHEMBL4118901	Binding affinity to PIK3R4 in human NCI-H358 cells at 1 uM by mass spectrometry based pull down assay	B	C=CC(=O)Nc1ccccc1Nc1nc(Nc2ccc(N3CCN(CCOCCOCCOCCNC(=O)CCCC[C@@H]4SC[C@@H]5NC(=O)N[C@H]45)CC3)cc2)ncc1Cl		CHEMBL4129274		Activity			CHEMBL2189144	Homo sapiens	Activity		

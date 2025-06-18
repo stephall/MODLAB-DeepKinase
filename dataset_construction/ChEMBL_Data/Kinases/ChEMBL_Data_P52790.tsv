@@ -1,0 +1,3 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+Not Active	12082302	CHEMBL2166288	Activation of human hexokinase 3 at 500 times EC50 concentration	B	O=C(O)c1ccc(NC(=O)[C@H](CC2CCCC2)n2cnc(C(F)(F)F)c2)nc1		CHEMBL2165620		Activity			CHEMBL2709	Homo sapiens	Activity		
+Not Active	12082302	CHEMBL2166288	Activation of human hexokinase 3 at 500 times EC50 concentration	B	O=C(O)c1ccc(NC(=O)[C@H](CC2CCCC2)n2cnc(C(F)(F)F)c2)nc1		CHEMBL2165620		Activity			CHEMBL2709	Homo sapiens	Activity		

@@ -1,0 +1,6 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+Not Active	3259569	CHEMBL1109754	Inhibition of DAGgamma up to 100 uM	B	CCCCCCCCCCCCc1ccc(C(=O)NC2(C(=N)N)CC2)cc1.Cl		CHEMBL1092481		Inhibition	%		CHEMBL1075157	Homo sapiens	INH		
+Not Active	3259569	CHEMBL1109754	Inhibition of DAGgamma up to 100 uM	B	CCCCCCCCCCCCc1ccc(C(=O)NC2(C(=N)N)CC2)cc1.Cl		CHEMBL1092481		Inhibition	%		CHEMBL1075157	Homo sapiens	INH		
+Not Active	3259572	CHEMBL1109754	Inhibition of DAGgamma up to 100 uM	B	CCCCCCCCCCCCc1ccc(NC(=O)C2(C(=N)N)CC2)cc1.Cl		CHEMBL1093397		Inhibition	%		CHEMBL1075157	Homo sapiens	INH		
+	18069865	CHEMBL4015089	Inhibition of human DGKgamma (1 to 752 residues) by ADP Glo HTS assay	B	O=C(c1cc([C@H]2CCCN2c2cc(F)cc(F)c2)c2oc(N3CCOCC3)cc(=O)c2c1)N1CCOCC1		CHEMBL4060768	>	IC50	nM	50000.0	CHEMBL1075157	Homo sapiens	IC50	uM	50.0
+Not Active	18161871	CHEMBL4036001	Inhibition of human DGKgamma (1 to 752 residues) at 50 uM by ADP Glo HTS assay	B	CNC(=O)c1nc(-c2nc(-c3cnc4ccccn34)c(C)nc2N)n(C)n1		CHEMBL4072637		Inhibition	%		CHEMBL1075157	Homo sapiens	INH		

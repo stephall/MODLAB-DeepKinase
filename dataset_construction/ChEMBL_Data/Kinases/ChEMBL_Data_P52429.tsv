@@ -1,0 +1,4 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+Not Active	3259571	CHEMBL1111692	Inhibition of DAGepsilon up to 100 uM	B	CCCCCCCCCCCCc1ccc(C(=O)NC2(C(=N)N)CC2)cc1.Cl		CHEMBL1092481		Inhibition	%		CHEMBL1075187	Homo sapiens	INH		
+Not Active	3259571	CHEMBL1111692	Inhibition of DAGepsilon up to 100 uM	B	CCCCCCCCCCCCc1ccc(C(=O)NC2(C(=N)N)CC2)cc1.Cl		CHEMBL1092481		Inhibition	%		CHEMBL1075187	Homo sapiens	INH		
+Not Active	3259574	CHEMBL1111692	Inhibition of DAGepsilon up to 100 uM	B	CCCCCCCCCCCCc1ccc(NC(=O)C2(C(=N)N)CC2)cc1.Cl		CHEMBL1093397		Inhibition	%		CHEMBL1075187	Homo sapiens	INH		

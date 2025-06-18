@@ -1,0 +1,5 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+	2493655	CHEMBL992306	Inhibition of human VIP1 receptor at 1 uM	B	COc1ccc(-c2ccc(C(=O)Nc3cccc(Cn4ncc(N5CCNCC5)cc4=O)c3C)cc2)cn1		CHEMBL475965	<	Inhibition	%	10.0	CHEMBL5046	Homo sapiens	INH	%	10.0
+	2493655	CHEMBL992306	Inhibition of human VIP1 receptor at 1 uM	B	COc1ccc(-c2ccc(C(=O)Nc3cccc(Cn4ncc(N5CCNCC5)cc4=O)c3C)cc2)cn1		CHEMBL475965	<	Inhibition	%	10.0	CHEMBL5046	Homo sapiens	INH	%	10.0
+	13865390	CHEMBL3102182	Inhibition of human VIP1 receptor at 10 uM relative to control	B	COc1ccc(CNC(=O)c2cc(-c3cc(Cl)cc(Cl)c3)cnc2-c2cccnc2)cc1OC		CHEMBL3099899	=	Inhibition	%	6.0	CHEMBL5046	Homo sapiens	INH	%	6.0
+	15710581	CHEMBL3616234	Binding affinity to human VIP1 receptor assessed as inhibition of control specific binding at 10 uM	B	CC(C)N1CCN(S(=O)(=O)c2ccc(NC(=O)c3ccc(C(F)(F)F)cc3[N+](=O)[O-])cc2)CC1		CHEMBL3613642	=	Inhibition	%	2.0	CHEMBL5046	Homo sapiens	INH	%	2.0

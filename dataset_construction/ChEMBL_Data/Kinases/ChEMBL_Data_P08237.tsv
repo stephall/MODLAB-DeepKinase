@@ -1,0 +1,4 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+	2988335	CHEMBL1037330	Inhibition of phosphofructokinase AMP binding site	B	CCc1cc(F)c(N)c2nc(-c3ccc(P(=O)(O)O)o3)n(CC(C)C)c12		CHEMBL570790	>	EC50	nM	100000.0	CHEMBL3291	Homo sapiens	EC50	uM	100.0
+	2988335	CHEMBL1037330	Inhibition of phosphofructokinase AMP binding site	B	CCc1cc(F)c(N)c2nc(-c3ccc(P(=O)(O)O)o3)n(CC(C)C)c12		CHEMBL570790	>	EC50	nM	100000.0	CHEMBL3291	Homo sapiens	EC50	uM	100.0
+Active	18275781	CHEMBL4118741	Binding affinity to PFKM in human NCI-H23 cells at 1 uM by mass spectrometry based pull down assay	B	C=CC(=O)Nc1ccccc1Nc1nc(Nc2ccc(N3CCN(CCOCCOCCOCCNC(=O)CCCC[C@@H]4SC[C@@H]5NC(=O)N[C@H]45)CC3)cc2)ncc1Cl		CHEMBL4129274		Activity			CHEMBL3291	Homo sapiens	Activity		

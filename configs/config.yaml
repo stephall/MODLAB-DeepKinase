@@ -1,0 +1,22 @@
+#/configs/config.yaml
+
+# Define default config groups
+defaults:
+  - _self_ # Required due to reason described in 'https://hydra.cc/docs/upgrades/1.0_to_1.1/default_composition_order/'
+  - model: mtgnn_model.yaml
+  - data_handling: data_handling_default.yaml
+  - training: training_default.yaml
+  - relation_representation: binary_labels.yaml
+  - decision_layer: binary_classification.yaml
+  - override hydra/hydra_logging: disabled # Disable hydra logging  
+  - override hydra/job_logging: disabled   # Disable hydra logging
+
+# Define a default 'label' (that will be used to save the outputs of a run in the directory ./outputs/<date>/<model_name>/<label>/<run_folder>)
+label: 'unlabeled'
+
+# Define hydra specific configurations
+hydra:
+  job:
+    # Explicitly set that Hydra should change the working directory to the output directory
+    # Remark: This should be done because in Hydra-1.2, this will not automatically be done any longer.
+    chdir: True

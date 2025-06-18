@@ -1,0 +1,6 @@
+[2023-07-28 14:09:13] [INFO]: Extract all SMILES in the kinases data files
+[2023-07-28 14:09:18] [INFO]: 1074998 entries, where the activity of any molecule-kinase pair has been measured, were found on ChEMBL.
+[2023-07-28 14:09:18] [INFO]: 208301 molecules, whose activity to any kinase has been measured, were found on ChEMBL.
+[2023-07-28 14:09:18] [INFO]: Washing all smiles strings (and making the canonical and non-stereochemical): 
+[2023-07-28 14:32:14] [INFO]: Number of unique non-stereochemical washed canonical SMILES (nswcs) strings: 201299
+[2023-07-28 14:32:15] [INFO]: Saved the list of these nswcs in the file: ./tables/output/molecules/nswc_smiles_kinases_chembl.tsv

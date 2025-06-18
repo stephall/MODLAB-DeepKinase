@@ -1,0 +1,13 @@
+[2023-06-30 11:40:46] [INFO]: 522 kinases are found on KinHub.
+[2023-06-30 11:40:46] [INFO]: 636 kinases are found on UniProt for the keyword 'Kinase' ('reviewed' and 'Human').
+[2023-06-30 11:40:46] [INFO]: 477 kinases were found in both of these sources (intersection).
+[2023-06-30 11:40:46] [INFO]: 681 kinases were found in total (union).
+
+[2023-06-30 11:40:48] [INFO]: Loaded UniProt table as pandas.DataFrame with 204961 entries and the columns:
+['Entry', 'Reviewed', 'Entry Name', 'Protein names', 'Gene Names', 'Organism', 'Length', 'Alternative products (isoforms)', 'Sequence', 'Alternative sequence', 'Protein existence', 'Annotation', 'Domain [FT]', 'Motif']
+[2023-06-30 11:40:48] [INFO]: The only organism contained in the table is 'Homo sapiens (Human)'.
+[2023-06-30 11:40:54] [INFO]: Generation of Kinases table from ./tables/input/UniProt_Human_list.tsv using the Kinases listed in the files ./tables/input/KinHub_List.xlsx and ./tables/input/Keyword-Kinases(KW-0418)_UniProt.tsv finished. Duration: 6.59s
+[2023-06-30 11:40:54] [INFO]: The following 0 Kinases were not found in UniProt Human Table: []
+[2023-06-30 11:40:54] [INFO]: Removed 27 protein entries because 'Protein existence' was not equal to 'Evidence at protein level': ['O43930', 'Q9UQ07', 'B5MCJ9', 'Q6IBK5', 'Q52WX2', 'Q8N752', 'P0C263', 'Q5MAI5', 'Q9Y6S9', 'Q56UN5', 'Q9BXU1', 'Q6P2M8', 'Q16816', 'Q8NCB2', 'Q8NE28', 'Q6P3R8', 'Q9NY57', 'Q9C098', 'Q5T9C9', 'Q14409', 'Q6ZS86', 'Q13670', 'A4QPH2', 'A4D2B8', 'A0A0B4J2F2', 'Q6A1A2', 'O60361']
+[2023-06-30 11:40:54] [INFO]: Removed 10 protein entries because 'Annotation' was not equal to '5.0': ['Q7Z695', 'Q96LW2', 'P57058', 'Q9NSY0', 'Q86YV6', 'Q3MIX3', 'Q8IV42', 'Q9HA64', 'Q5T6J7', 'Q96M69']
+[2023-06-30 11:40:54] [INFO]: Saved generated Kinase table (containing 644 Kinases) as './tables/output/proteins/Kinases_table.tsv'

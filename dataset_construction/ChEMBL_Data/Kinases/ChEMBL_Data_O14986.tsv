@@ -1,0 +1,3 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+Not Active	23383653	CHEMBL4887309	PIP5K1B Invitrogen Lab (UK) kinase screen (BI)	B	CCC(F)(F)c1cc(N2CCC(S(C)(=O)=O)CC2)nc2sc(C(N)=O)c(N)c12		CHEMBL4522930		% Ctrl	%	108.0	CHEMBL4802064	Homo sapiens	% Ctrl	%	108.0
+Not Active	23383653	CHEMBL4887309	PIP5K1B Invitrogen Lab (UK) kinase screen (BI)	B	CCC(F)(F)c1cc(N2CCC(S(C)(=O)=O)CC2)nc2sc(C(N)=O)c(N)c12		CHEMBL4522930		% Ctrl	%	108.0	CHEMBL4802064	Homo sapiens	% Ctrl	%	108.0

@@ -1,0 +1,11 @@
+activity_comment	activity_id	assay_chembl_id	assay_description	assay_type	canonical_smiles	data_validity_comment	molecule_chembl_id	relation	standard_type	standard_units	standard_value	target_chembl_id	target_organism	type	units	value
+	13432871	CHEMBL2424215	Inhibition of MAST4 in human HuH7 cell lysates at 10 uM	B	O=C(NC1(c2ccc(F)cc2)CC1)c1ccc2nc(N[C@H]3CC[C@H](O)CC3)c3nccn3c2c1		CHEMBL2420555	=	Inhibition	%	78.7	CHEMBL2417351	Homo sapiens	INH	%	78.7
+	13432871	CHEMBL2424215	Inhibition of MAST4 in human HuH7 cell lysates at 10 uM	B	O=C(NC1(c2ccc(F)cc2)CC1)c1ccc2nc(N[C@H]3CC[C@H](O)CC3)c3nccn3c2c1		CHEMBL2420555	=	Inhibition	%	78.7	CHEMBL2417351	Homo sapiens	INH	%	78.7
+	13432872	CHEMBL2424215	Inhibition of MAST4 in human HuH7 cell lysates at 10 uM	B	O=C(NC1(c2ccccc2)CC1)c1ccc2nc(N[C@H]3CC[C@H](O)CC3)c3nccn3c2c1		CHEMBL2420572	>	Inhibition	%	88.0	CHEMBL2417351	Homo sapiens	INH	%	88.0
+	13432873	CHEMBL2424215	Inhibition of MAST4 in human HuH7 cell lysates at 10 uM	B	CCC[C@@H](NC(=O)c1ccc2nc(N[C@H]3CC[C@H](O)CC3)c3nccn3c2c1)c1ccccc1		CHEMBL2420565	=	Inhibition	%	75.6	CHEMBL2417351	Homo sapiens	INH	%	75.6
+	13432874	CHEMBL2424215	Inhibition of MAST4 in human HuH7 cell lysates at 10 uM	B	O=C(N[C@H](CO)c1ccccc1)c1ccc2nc(N[C@H]3CC[C@H](O)CC3)c3nccn3c2c1		CHEMBL2420564	>	Inhibition	%	88.0	CHEMBL2417351	Homo sapiens	INH	%	88.0
+	13432875	CHEMBL2424215	Inhibition of MAST4 in human HuH7 cell lysates at 10 uM	B	CC[C@@H](NC(=O)c1ccc2nc(N[C@H]3CC[C@H](O)CC3)c3nccn3c2c1)c1ccccc1		CHEMBL2420562	=	Inhibition	%	79.8	CHEMBL2417351	Homo sapiens	INH	%	79.8
+	13432876	CHEMBL2424215	Inhibition of MAST4 in human HuH7 cell lysates at 10 uM	B	C[C@@H](NC(=O)c1ccc2nc(N[C@H]3CC[C@H](O)CC3)c3nccn3c2c1)c1ccccc1		CHEMBL2420556	=	Inhibition	%	76.1	CHEMBL2417351	Homo sapiens	INH	%	76.1
+	23372813	CHEMBL4884778	MAST4(MAS4LGRD) Takeda global kinase panel	B	CN1C(=O)[C@@H](N2CCc3cn(Cc4ccccc4)nc3C2=O)COc2ccccc21		CHEMBL4088216		IC50	nM	1000.0	CHEMBL2417351	Homo sapiens	pIC50		6.0
+	23373222	CHEMBL4885069	MAST4(MAS4LGRD) Takeda global kinase panel	B	CN1C(=O)[C@@H](N2CCc3c(nn(Cc4ccccc4)c3Br)C2=O)COc2ccccc21		CHEMBL4549667		IC50	nM	1000.0	CHEMBL2417351	Homo sapiens	pIC50		6.0
+	23373580	CHEMBL4885357	MAST4(MAS4LGRD) Takeda global kinase panel	B	CN1C(=O)[C@@H](N2CCc3cn(CC4CCS(=O)(=O)CC4)nc3C2=O)COc2ccccc21		CHEMBL4097778		IC50	nM	1000.0	CHEMBL2417351	Homo sapiens	pIC50		6.0
