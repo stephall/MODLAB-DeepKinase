@@ -1,5 +1,3 @@
-# Repository containing the code of LINK_TO_PUBLISHED_ARTICLE.
-
 ## Folder structure
 We will denote the root-level of the project directory as *PROJECT*.
 </br>
@@ -132,5 +130,5 @@ Note that the order of the rows of the newly created *Activities_Kinases.tsv* mi
 This is fine, as the data is sorted during data preprocessing before training a model.
 
 ## Funding
-This project was launched at ETH Zurich in May 2022 and completed in February 2025.
+This was a project by the MODLAB group at ETH Zurich started in May 2022 and completed in February 2025.
 It was supported by the Swiss National Science Foundation (grant numbers 205321_182176 and 1-007655-000).
